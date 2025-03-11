@@ -112,7 +112,7 @@
 <h2 align="center">Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://github.com/sourin8590/sourin8590/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sourin8590/sourin8590/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
