@@ -113,6 +113,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourin8590&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<h2 align="center">Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://github.com/sourin8590/sourin8590/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 ---
 
 <p align="center">Thanks for visiting my profile! 😄</p>
