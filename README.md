@@ -111,9 +111,14 @@
 
 <h2 align="center">Contribution Streak</h2>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sourin8590/sourin8590/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourin8590/sourin8590/output/github-snake-dark.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourin8590/sourin8590/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sourin8590/sourin8590/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
 
 
 ---
