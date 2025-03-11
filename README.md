@@ -106,10 +106,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourin8590&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourin8590&theme=radical" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourin8590&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
